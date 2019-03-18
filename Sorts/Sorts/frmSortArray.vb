@@ -148,4 +148,7 @@
     Private Sub btnOpenSortRecords_Click(sender As System.Object, e As System.EventArgs) Handles btnOpenSortRecords.Click
         frmSortRecord.Show()
     End Sub
+Private Sub test()
+end sub
+
 End Class
