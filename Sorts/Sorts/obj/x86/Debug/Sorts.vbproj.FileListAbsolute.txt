@@ -1,0 +1,70 @@
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.exe
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.pdb
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.xml
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+C:\My Docs\12 SDD\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.exe
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.pdb
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.xml
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+J:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.exe
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.pdb
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.xml
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+Y:\12SDD2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.exe
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.pdb
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.xml
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+X:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.exe
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.pdb
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\bin\Debug\Sorts.xml
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+U:\12SDD_2014\Trent Chapman\HSC Algorithm Pracs 2014\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+U:\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.exe
+U:\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.pdb
+U:\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.xml
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+U:\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.xml
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.exe
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.pdb
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\bin\Debug\Sorts.xml
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortArray.resources
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.frmSortRecord.resources
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.Resources.resources
+T:\1CDRoms_Prac_Archive\12SDD_2016\Chapman\Sorts\Sorts\obj\x86\Debug\Sorts.vbproj.GenerateResource.Cache
